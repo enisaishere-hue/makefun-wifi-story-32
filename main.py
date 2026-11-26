@@ -24,6 +24,8 @@ import sys
 
 LINE = "DadLeftForMilk_NeverCameBack"
 
+# Verified by running main.py: entry.txt holds this 28-character name
+# plus one trailing newline (29 bytes), inside the bounty gate of 1..32.
 MAX_CHARS = 32
 
 
